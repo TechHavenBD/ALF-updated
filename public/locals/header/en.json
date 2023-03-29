@@ -1,0 +1,14 @@
+{
+  "appHeader": {
+    "header": "Abdul Alim Foundation"
+  },
+  "appTitle": {
+    "value": "Abdul Alim Foundation"
+  },
+  "appMenu": {
+    "music": "Music",
+    "event": "Event",
+    "about": "About",
+    "contact_us": "Contact us"
+  }
+}
